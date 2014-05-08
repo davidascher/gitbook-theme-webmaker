@@ -1,6 +1,6 @@
 {
     "name": "gitbook-plugin-wabtheme",
-    "description": "Gitbook plugin for custom css
+    "description": "Gitbook plugin for custom css"
     "version": "0.0.2",
     "engines": {
         "gitbook": "*"
