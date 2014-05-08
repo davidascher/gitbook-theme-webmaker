@@ -1,18 +1,17 @@
 {
-    "name": "gitbook-plugin",
-    "description": "Sample plugin for GitBook",
-    "main": "index.js",
+    "name": "gitbook-plugin-wabtheme",
+    "description": "Gitbook plugin for custom css
     "version": "0.0.2",
     "engines": {
         "gitbook": "*"
     },
-    "homepage": "https://github.com/GitbookIO/plugin",
+    "homepage": "https://github.com/wabarr/plugin-wabtheme/,
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin.git"
+        "url": "https://github.com/wabarr/plugin-wabtheme/"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin/issues"
+        "url": "https://github.com/wabarr/plugin-wabtheme/issues"
     }
 }
