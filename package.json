@@ -5,7 +5,7 @@
     "engines": {
         "gitbook": "*"
     },
-    "homepage": "https://github.com/wabarr/plugin-wabtheme/,
+    "homepage": "https://github.com/wabarr/plugin-wabtheme/",
     "repository": {
         "type": "git",
         "url": "https://github.com/wabarr/plugin-wabtheme/"
