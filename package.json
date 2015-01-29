@@ -1,17 +1,22 @@
 {
-    "name": "gitbook-plugin-wabtheme",
-    "description": "Gitbook plugin for custom css",
-    "version": "0.0.1",
-    "engines": {
-        "gitbook": "*"
-    },
-    "homepage": "https://github.com/wabarr/plugin-wabtheme/",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/wabarr/plugin-wabtheme/"
-    },
-    "license": "Apache 2",
-    "bugs": {
-        "url": "https://github.com/wabarr/plugin-wabtheme/issues"
-    }
+  "name": "gitbook-theme-webmaker",
+  "description": "Gitbook plugin for webmaker styling",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/davidascher/gitbook-theme-webmkaer/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidascher/gitbook-theme-webmaker/"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/davidascher/gitbook-theme-webmaker/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ascher <david.ascher@gmail.com> (http://ascher.ca/)"
 }
